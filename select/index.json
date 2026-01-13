@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "放課後マーメイド",
+  "base_artist": "しぐれうい",
+  "createdAt": "2026-01-13T20:25:37.634171Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "放課後マーメイド",
+      "artist": "しぐれうい",
+      "has_synced": true,
+      "path": "select/01_放課後マーメイド_しぐれうい.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "放課後マーメイド（Instrumental）",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/02_放課後マーメイド(Instrumental)_しぐれうい.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "放課後マーメイド (Instrumental)",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/03_放課後マーメイド_(Instrumental)_しぐれうい.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "放課後マーメイド",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/pl_01_放課後マーメイド_しぐれうい.txt"
+    }
+  ]
+}
